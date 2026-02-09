@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii My Name is Adil Ehtesham ,<br>I am a Full stack developer (Mern)<br>Currently i comepelete my Full Stack 6Months Training<br>And I complete My Graduation B.a in 2024<br>i also doing BCA from Manipal Univercity Jaipur (2024-2027)<br>my 2nd semester marks is 82.2sgpa
+Hii My Name is Adil Ehtesham ,<br>I am a Full stack developer (Mern) . I complete My Graduation B.a in 2024<br>i also doing BCA from Manipal Univercity Jaipur (2024-2027)<br>my 2nd semester marks is 82.2sgpa
 
 
 ## 🌐 Socials:
